@@ -1,7 +1,7 @@
 
 ![workflow](https://github.com/camerondear45/seMethods/actions/workflows/main.yml/badge.svg)
 
-[![LICENSE](https://img.shields.io/github/license/camerondear45/seMethods.svg?style=flat-square)](https://github.com/camerondear45/seMethods/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/camerondear45/seMethods.svg?style=flat-square)](https://github.com/camerondear45/seMethods/blob/main/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/camerondear45/seMethods/all.svg?style=flat-square)](https://github.com/camerondear45/seMethods/releases)
 
