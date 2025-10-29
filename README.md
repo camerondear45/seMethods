@@ -1,7 +1,7 @@
 
-![workflow](https://github.com/camerondear45/seMethods/actions/workflows/main.yml/badge.svg)
+**Main Build Status** ![workflow](https://github.com/camerondear45/seMethods/actions/workflows/main.yml/badge.svg)
 
-![Develop Build Status](https://github.com/camerondear45/seMethods/actions/workflows/main.yml/badge.svg?branch=develop)
+**Develop Build Status** ![Develop Build Status](https://github.com/camerondear45/seMethods/actions/workflows/main.yml/badge.svg?branch=develop)
 
 [![License](https://img.shields.io/github/license/camerondear45/seMethods?style=flat-square)](https://github.com/camerondear45/seMethods/blob/main/LICENSE)
 
